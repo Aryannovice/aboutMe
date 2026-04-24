@@ -249,6 +249,21 @@ function App() {
                   </div>
                 ))}
               </div>
+
+              <div className="mt-6 pt-4 border-t border-gray-200 dark:border-gray-700">
+                <p className="text-sm text-gray-600 dark:text-gray-400">
+                  More projects are on my{' '}
+                  <a
+                    href={socials.find((s) => s.label === 'GitHub')?.href ?? 'https://github.com/Aryannovice'}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium transition"
+                  >
+                    GitHub
+                  </a>
+                  . Feel free to check them out.
+                </p>
+              </div>
             </div>
           </div>
         )}
