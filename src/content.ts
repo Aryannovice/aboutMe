@@ -40,7 +40,7 @@ export const profile = {
   location: 'India',
   email: 'ayushpandey1177@gmail.com',
   about: [
-    "Hey, I am Ayush. I work as an Associate AI Engineer at an analytics firm, and I will be graduating in 2026 with a B.Tech in Computer Science (AI specialization) and a CGPA of 8.65.",
+    "I work as an Associate AI Engineer at an analytics firm, and I will be graduating in 2026 with a B.Tech in Computer Science (AI specialization) and a CGPA of 8.65.",
     "About a year and a half ago, I made the decision to seriously pursue engineering. It was not a straight path, I stumbled through hackathons, interviews, and plenty of rejections, with just a few close calls and wins along the way. But those experiences taught me something important: I enjoy building systems far more than chasing every opportunity at once. That realization shaped how I approach my career today.",
     "Through hackathons, side projects, and countless hours on LeetCode, I built a foundation in problem‑solving and system design. Winning a few competitions and completing strong projects gave me confidence, but more importantly, they gave me perspective on what it takes to build things that last.",
     "Now, my focus is on system architecture and inference engineering, routing, batching, KV/prefill optimizations, and making AI systems reliable at scale. At work, I am building multi‑agent systems and MLOps pipelines, where I get to combine engineering discipline with AI research. I am also diving deeper into inference, exploring practical reliability and optimizations, and learning from resources like Philip Kiely’s book, which helped me frame my journey in a more structured way.",

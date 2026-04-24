@@ -132,7 +132,7 @@ function App() {
         {/* Hero Section */}
         <section className="pt-32 pb-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl lg:max-w-4xl mx-auto">
-            <h1 className="text-4xl sm:text-5xl font-bold mb-6 leading-tight">Hi, I'm Ayush.</h1>
+            <h1 className="text-4xl sm:text-5xl font-bold mb-6 leading-tight">Hey, I am Ayush.</h1>
 
             <div className="max-w-none">
               {profile.about.map((paragraph) => (
