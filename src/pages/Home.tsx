@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <section className="pt-32 pb-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-4xl sm:text-5xl font-bold mb-4 leading-tight">Hi, I'm Ayush.</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold mb-4 leading-tight">Hey, I am Ayush.</h1>
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed">
           {profile.headline}
         </p>

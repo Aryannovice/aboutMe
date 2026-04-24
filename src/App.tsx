@@ -36,7 +36,7 @@ function App() {
         <nav className="fixed top-0 w-full bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 z-40 transition-colors">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between items-center h-16">
-              <a href="/" className="text-2xl font-bold">Ayush</a>
+              <a href="/" className="text-2xl font-bold">About Me</a>
 
               {/* Desktop Menu */}
               <div className="hidden sm:flex items-center gap-8">
