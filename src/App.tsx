@@ -64,6 +64,14 @@ function App() {
                 >
                   Contact
                 </button>
+                <a
+                  href={profile.resumeUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-blue-600 dark:hover:text-blue-400 transition font-medium"
+                >
+                  Resume
+                </a>
                 <button
                   onClick={() => setIsDark(!isDark)}
                   className="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition"
@@ -118,6 +126,15 @@ function App() {
                 >
                   Contact
                 </button>
+                <a
+                  href={profile.resumeUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => setMobileMenuOpen(false)}
+                  className="block w-full text-left px-0 py-3 hover:text-blue-600 dark:hover:text-blue-400 transition font-medium"
+                >
+                  Resume
+                </a>
                 <button
                   onClick={() => setIsDark(!isDark)}
                   className="block w-full text-left px-0 py-3 hover:text-blue-600 dark:hover:text-blue-400 transition font-medium mt-2"

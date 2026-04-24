@@ -39,12 +39,14 @@ export const profile = {
   headline: 'Associate AI Engineer · Systems, AI infrastructure, and multi-agent platforms',
   location: 'India',
   email: 'ayushpandey1177@gmail.com',
+  resumeUrl: 'https://1drv.ms/b/c/87e1d8de83df6292/IQDRyWtMjdwPSZ9Lenookrs_Aeqm_LIaO4VOe8BbAyDkPbY?e=URsk3l',
   about: [
     "I work as an Associate AI Engineer at an analytics firm, and I will be graduating in 2026 with a B.Tech in Computer Science (AI specialization) and a CGPA of 8.65.",
     "About a year and a half ago, I made the decision to seriously pursue engineering. It was not a straight path, I stumbled through hackathons, interviews, and plenty of rejections, with just a few close calls and wins along the way. But those experiences taught me something important: I enjoy building systems far more than chasing every opportunity at once. That realization shaped how I approach my career today.",
     "Through hackathons, side projects, and countless hours on LeetCode, I built a foundation in problem‑solving and system design. Winning a few competitions and completing strong projects gave me confidence, but more importantly, they gave me perspective on what it takes to build things that last.",
     "Now, my focus is on system architecture and inference engineering, routing, batching, KV/prefill optimizations, and making AI systems reliable at scale. At work, I am building multi‑agent systems and MLOps pipelines, where I get to combine engineering discipline with AI research. I am also diving deeper into inference, exploring practical reliability and optimizations, and learning from resources like Philip Kiely’s book, which helped me frame my journey in a more structured way.",
-    "This journey is ongoing. I see my career as a series of experiments each project, each blog, each system I design is a step toward understanding how to make AI infrastructure scalable and trustworthy. I will be sharing what I learn through blogs and projects, not just as documentation of my work, but as stories of the challenges, trade‑offs, and breakthroughs that come with building systems in the real world."
+    "This journey is ongoing. I see my career as a series of experiments each project, each blog, each system I design is a step toward understanding how to make AI infrastructure scalable and trustworthy. I will be sharing what I learn through blogs and projects, not just as documentation of my work, but as stories of the challenges, trade‑offs, and breakthroughs that come with building systems in the real world.",
+    "If you notice any of my work or wish to contact me, my details are in the Contact section. I am always up for technical discussions."
   ]
 } as const;
 
