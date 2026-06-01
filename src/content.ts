@@ -138,9 +138,16 @@ export const projects: Project[] = [
 export const blogs: BlogPost[] = [
   {
     title: '1-Bit Evolution: Building a Decentralized Memory Layer from the Metal Up',
-    date: '2026',
+    date: 'March, 2026',
     excerpt: 'A deep dive into building DPM — design choices, indexing trade-offs, and what “memory” means in practice.',
     href: 'https://aryannovice.hashnode.dev/1-bit-evolution-building-a-decentralized-memory-layer-from-the-metal-up?utm_source=hashnode&utm_medium=feed',
+    source: 'Hashnode'
+  },
+  {
+    title: 'What if AI Agents had CI/CD?',
+    date: 'June, 2026',
+    excerpt: 'I tried building a workflow that evaluates, snapshots, and deploys agent instructions across multiple AI tools.',
+    href: 'https://aryannovice.hashnode.dev/what-if-ai-agents-had-ci-cd',
     source: 'Hashnode'
   }
 ];
