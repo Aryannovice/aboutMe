@@ -147,8 +147,8 @@ export const blogs: BlogPost[] = [
     title: 'What if AI Agents had CI/CD?',
     date: 'June, 2026',
     excerpt: 'I tried building a workflow that evaluates, snapshots, and deploys agent instructions across multiple AI tools.',
-    href: 'https://aryannovice.hashnode.dev/what-if-ai-agents-had-ci-cd',
-    source: 'Hashnode'
+    href: 'https://medium.com/@ayushpandey1177/what-if-ai-agents-had-ci-cd-caf0de1c5ea1',
+    source: 'Medium'
   }
 ];
 
